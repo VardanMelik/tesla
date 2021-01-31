@@ -30,9 +30,15 @@
 
 .header__right {
     display: flex;
-    justify-content: flex-end;
+    margin-right: 40px;
+    justify-content: center;
     text-transform: uppercase;
 }
+
+
+/*.header__right>.MuiSvgIcon-root {
+    margin-bottom: 100px!important;
+}*/
 
 .header__right>p {
     margin: 10px;
